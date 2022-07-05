@@ -6,7 +6,7 @@ public class Act_5 {
 		
 		int A = 91, B = 38, C = 77, D = 189;
 		
-		// Valor de las variables antes del cambio
+		// Valor de las variables antes del ejercicio:
 		
 		System.out.println("A =" + A + "\nB = " + B + "\nC = " + C + "\nC = " + D);
 		
