@@ -7,7 +7,7 @@ public class ComentarioVariasLineas {
 		System.out.println("Cucu");*/
 
         for (int i=0; i < 6; /*aqui el paso*/ i++)
-
+        		System.out.println(i+" ");
             System.out.println("FIN DE PROGRAMA");
 	}
 	

@@ -5,11 +5,11 @@ public class ClaseInteger1 {
 
         // Creación de objeto Integer usando 2o constructor
         
-        Integer num1 = 125;
+        Integer num1 = new Integer (125);
 
         //Creación de un objeto Integer usando 1er constructor
         
-		Integer num2 = 20;
+		Integer num2 = new Integer(20);
 
         /*Obtener un entero que almacena cada objeto Integer
         Si no se hace, las lineas siguientes causarian error */
