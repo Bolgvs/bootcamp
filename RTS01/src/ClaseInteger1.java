@@ -5,7 +5,7 @@ public class ClaseInteger1 {
 
         // Creación de objeto Integer usando 2o constructor
         
-        Integer num1 = new Integer (125);
+        Integer num1 = new Integer("125");
 
         //Creación de un objeto Integer usando 1er constructor
         
